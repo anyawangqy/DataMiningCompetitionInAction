@@ -1,16 +1,12 @@
 
-## 数据挖掘竞赛实战方法与案例
+## Data Mining Competition Practices:Methods and Cases
 
 ![图书封面](imgs/cover.jpg  )
 
-欢迎来到《算法竞赛：机器学习与数据挖掘实战》的官方代码仓库，本仓库包含了书中介绍的所有代码示例和项目文件。
+Welcome to the official code repository for Data Mining Competition Practices:Methods and Cases. This repository contains all code examples and project files introduced in the book.
 
-## 环境要求和使用方法
+## Environment Requirements and Usage
 
-详见各项目目录下的 `README.md` 文件。
+Please refer to the README.md file in each project directory for details.
 
-## 联系方式
-
-如果你有任何问题或者建议，请通过[email]联系作者。
-
-祝你学习愉快！
+Happy learning!
